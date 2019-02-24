@@ -26,3 +26,29 @@
 	text-align: center;
 	padding-top: 4px;
 }
+@media (max-width:991px) { 
+	.w3-border .w3-grey{
+		height: 150px!important;
+	}
+	.w3-border .w3-grey p{
+		font-size: 80px;
+		padding-top: 30px!important;
+	}
+	#bar-select{
+		height: 70px!important;
+	    font-size: 25px!important;
+	}
+	.button-process{
+	    font-size: 30px;
+	    height: 70px;
+	    width: 100px;
+    }
+}
+#control{
+	padding-top: 15px;
+}
+#bar-select{
+	height: 50px;
+    font-size: 20px;
+    font-family: inherit;
+}
